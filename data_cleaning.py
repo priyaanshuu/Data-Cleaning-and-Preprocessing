@@ -1,6 +1,5 @@
 # Customer Personality Analysis Data Cleaning Script
-# -------------------------------------------------
-# Author: Priyanshu Dubey
+
 # Task: Data Analyst Internship - Task 1 (Data Cleaning and Preprocessing)
 
 import pandas as pd
@@ -41,3 +40,4 @@ df.columns = df.columns.str.lower().str.replace(' ', '_')
 df.to_csv("cleaned_customer_personality.csv", index=False)
 
 print("✅ Data cleaning completed successfully! Cleaned dataset saved as 'cleaned_customer_personality.csv'.")
+
