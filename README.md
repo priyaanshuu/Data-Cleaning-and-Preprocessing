@@ -6,7 +6,7 @@ To clean and preprocess the raw **Customer Personality Analysis** dataset by ide
 
 ---
 
-### 🧠 **Overview**
+###  **Overview**
 
 This project is part of the **Data Analyst Internship – Task 1** focusing on **data cleaning and preprocessing**.
 The dataset provides customer demographic and behavioral information for marketing analysis.
@@ -47,11 +47,11 @@ The dataset provides customer demographic and behavioral information for marketi
 | ---------------------------------- | ---------------------------------- |
 | `cleaned_customer_personality.csv` | Final cleaned dataset              |
 | `README.md`                        | Summary of all cleaning steps      |
-| `data_cleaning.ipynb`              | Python code used for data cleaning |
+| `data_cleaning.py`                 | Python code used for data cleaning |
 
 ---
 
-### 🧩 **Tech Stack**
+###  **Tech Stack**
 
 * **Language:** Python 3.11
 * **Libraries:** Pandas, NumPy
@@ -59,7 +59,7 @@ The dataset provides customer demographic and behavioral information for marketi
 
 ---
 
-### 📈 **Key Learnings**
+###  **Key Learnings**
 
 * Data preprocessing fundamentals
 * Handling missing and duplicate values
